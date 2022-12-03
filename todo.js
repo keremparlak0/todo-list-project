@@ -50,5 +50,5 @@ function addTodoUI(newTodo){
 
     //Todo eklendikten sonra textbox'ı boşaltır
     todoInput.value = ""
-
+    //deneme
 }
