@@ -32,3 +32,7 @@ setTimeout(function name() {
         alert.remove()
     }, 2000)
 ```
+- local storage: Tarayıcı kapatılsa da güncellenen bilgiler saklanır
+
+- session storage: tarayıcı kapatıldığında saklanan veriler silinir
+
