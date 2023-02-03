@@ -4,8 +4,10 @@
 ## Projeden Öğrendiklerim:
 
 - confirm(): Bize koşullu bir "alert" sunar. "Tamam" veya "iptal" şeklinde iki seçenek verir.
-> if (confirm("")) {
->   }
+```
+ if (confirm("")) {
+   }
+```
 
 - DOMContentLoaded(event): Storage'da kayıtlı içerikleri yüklememize olanak sağlar.
 
